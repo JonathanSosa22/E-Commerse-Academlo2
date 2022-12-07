@@ -83,6 +83,15 @@ nav a:hover {
   }
 }
 
+@media (max-width: 400px) {
+  nav {
+    display: flex;
+  }
+  .logo-card {
+    padding-left: 95px;
+  }
+}
+
 /* Home */
 
 .home {
